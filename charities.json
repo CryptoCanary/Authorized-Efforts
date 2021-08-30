@@ -11,17 +11,6 @@
 		"thanksOnly": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool."
 	},
 	{
-		"charity": "I.E.O. Direct Donation",
-		"EGCaddress": "EKsvjis689QM2QGxNvkrmFEqLiFmmKAXGk",
-		"url": "https://evergreencoin.org/directory/increased-economic-opportunities-inc/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2017/09/logo-300x179-1-e1514366065244.png",
-		"EGCurl": "https://evergreencoin.org/directory/increased-economic-opportunities-inc/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2017/12/partnership_egcieo.png",
-		"thanks": "Help <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> through direct donation.",
-		"ask": "Direct donation to <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a>",
-		"thanksOnly": "<a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> thanks you!"
-	},
-	{
 		"charity": "EGC Renewables Donation",
 		"EGCaddress": "EamRBfnttBGkY1WKY3k5tUi4VVinr6Dpmo",
 		"url": "https://evergreencoin.org/egcrenewables/",
@@ -31,17 +20,6 @@
 		"thanks": "Thanks in advance for helping with on-going development and equipment costs of the Solar Web Wallet System and the EGC Solar Staker projects.",
 		"ask": "Please help us absorb the many costs associated with the <a href='https://evergreencoin.org/egcrenewables/'>EGC Solar Web Wallet System</a> and EGC Solar Stake Box projects.",
 		"thanksOnly": "Thank you for supporting these on-going costs of the EGC solar web wallets and EGC solar stake box projects."
-	},
-	{
-		"charity": "Wolfman Farms Urban Garden Direct Donation",
-		"EGCaddress": "EK8hHyGU47j1NzyK8Nyo92yjXXBKEP9ZSU",
-		"url": "https://twitter.com/HartonFarms",
-		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/WolfmanFarms.png",
-		"EGCurl": "http://evergreencoin.org/EGCGardens/",
-		"EGCimg": "https://evergreencoin.org/logos/1x/garden-txtmdpi.png",
-		"thanks": "Direct donations to Harton Farms urban garden in Kansas City, Missouri.",
-		"ask": "Please help support Wolfman Farms urban garden in Kansas City, Missouri, via direct donation.",
-		"thanksOnly": "Thank you for helping to support Wolfman Farms urban garden in Kansas City, Missouri, via direct donation."
 	},
 	{
 		"charity": "Trees For Cities Donation Fund",
